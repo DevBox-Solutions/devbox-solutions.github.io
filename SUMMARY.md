@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Inicio](README.md)
+* [Teste 01](teste-01.md)
 * [Técnicas](tecnicas/README.md)
   * [Tecnica 1](tecnicas/tecnica-1.md)
 * [Cerimónias](cerimonias.md)
