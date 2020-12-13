@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Inicio](README.md)
 * [Técnicas](tecnicas/README.md)
   * [Tecnica 1](tecnicas/tecnica-1.md)
 * [Cerimónias](cerimonias.md)

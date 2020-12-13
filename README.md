@@ -4,7 +4,7 @@ description: >-
   consistente.
 ---
 
-# Initial page
+# Inicio
 
 Técnicas
 
